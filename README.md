@@ -27,7 +27,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=gruvbox" alt="Sandhya's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandhya-1401&show_icons=true&theme=gruvbox" alt="Sandhya's GitHub Stats" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ### 💬 Let's Connect
 
 - 📬 **Email**: [ranasandhya093@gmail.com](mailto:ranasandhya093@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- 💼 **LinkedIn**: [linkedin.com/in/your-link](https://linkedin.com/in/rana-sandhya)  
 - 🧳 **Portfolio**: *Coming Soon...*  
 
 ---
