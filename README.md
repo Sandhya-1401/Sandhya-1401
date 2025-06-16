@@ -1,12 +1,15 @@
-<h1 align="center">Hi, I'm Sandhya 👋</h1>
+<h1 align="center">Hi, I'm Sandhya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/></h1>
+
 <p align="center">
-  <b>Final-year B.Tech Student | Aspiring Data Analyst</b><br>
-  <i>Passionate about turning data into decisions</i>
+  🎓 Final-year B.Tech Student | 📊 Aspiring Data Analyst <br>
+  ❤️ Passionate about turning data into decisions
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&style=flat-square&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=brightgreen" alt="profile views"/> 
+  <img src="https://img.icons8.com/clouds/100/data-configuration.png" width="30px" title="Data Enthusiast"/>
 </p>
+
 
 ---
 
