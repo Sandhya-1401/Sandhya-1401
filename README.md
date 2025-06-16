@@ -2,26 +2,23 @@
   Hi, I'm Sandhya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<!-- 2-column layout -->
 <table>
   <tr>
     <!-- Left side -->
     <td width="60%" valign="top">
-      
       <h3>🎓 Final-year B.Tech Student | 📊 Aspiring Data Analyst</h3>
       <p>❤️ Passionate about turning data into decisions</p>
-
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
-        <img src="https://img.shields.io/badge/Data%20Lover-💻-purple?style=flat-square" alt="Data Lover Badge"/>
-      </p>
+      <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
+      <img src="https://img.shields.io/badge/Data%20Lover-💻-purple?style=flat-square" alt="Data Lover Badge"/>
     </td>
-
     <!-- Right side -->
     <td width="40%" align="center">
-      <img src="https://github.com/Sandhya-1401/Sandhya-1401/blob/main/Data analysis.gif?raw=true" width="280" alt="Animated girl coding GIF"/>
+      <img src="https://github.com/Sandhya-1401/Sandhya-1401/blob/main/Data%20analysis.gif?raw=true" width="250" alt="Animated girl coding GIF"/>
     </td>
   </tr>
 </table>
+
 ---
 
 ### 🚀 About Me
