@@ -2,20 +2,26 @@
   Hi, I'm Sandhya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p align="center">
-  🎓 Final-year B.Tech Student | 📊 Aspiring Data Analyst<br>
-  ❤️ Passionate about turning data into decisions
-</p>
+<table align="center">
+<tr>
+<td>
+
+🎓 Final-year B.Tech Student | 📊 Aspiring Data Analyst  
+❤️ Passionate about turning data into decisions
+
+</td>
+<td align="right">
+
+<img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
+<img src="https://img.shields.io/badge/Data%20Lover-💻-purple?style=flat-square" alt="Data Lover Badge"/>
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/badge/Data%20Lover-💻-purple?style=flat-square" alt="Data Lover Badge"/>
+  <img src="https://github.com/Sandhya-1401/Sandhya-1401/blob/main/Data analysis.gif" width="400" alt="Animated girl coding">
 </p>
-
-<p align="center">
-  <img src="https://assets5.lottiefiles.com/packages/lf20_ypxms5.json" width="300" title="Girl coding animation"/>
-</p>
-
 
 ---
 
@@ -60,6 +66,3 @@
 ### ✨ Quote I Live By
 
 > “Transform raw data into impact — one insight at a time.”
-
----
-
