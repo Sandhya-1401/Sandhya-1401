@@ -14,8 +14,8 @@
       <img src="https://img.shields.io/badge/Data%20Lover-💻-purple?style=flat-square" alt="Data Lover Badge"/>
     </td>
     <!-- Right Side (GIF) -->
-    <td width="40%" align="center" valign="top">
-      <img src="https://github.com/Sandhya-1401/Sandhya-1401/blob/main/Data%20analysis.gif?raw=true" width="250" alt="Animated girl coding GIF"/>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github.com/Sandhya-1401/Sandhya-1401/blob/main/Data%20analyst.gif?raw=true" width="280" alt="Animated girl coding GIF"/>
     </td>
   </tr>
 </table>
