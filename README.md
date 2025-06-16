@@ -1,13 +1,22 @@
-<h1 align="center">Hi, I'm Sandhya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/></h1>
+<h1 align="center">Hi, I'm Sandhya 👋</h1>
 
 <p align="center">
-  🎓 Final-year B.Tech Student | 📊 Aspiring Data Analyst <br>
-  ❤️ Passionate about turning data into decisions
+  🎓 Final-year B.Tech Student | Aspiring Data Analyst <br>
+  🔍 Passionate about turning data into decisions
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=brightgreen" alt="profile views"/> 
-  <img src="https://img.icons8.com/clouds/100/data-configuration.png" width="30px" title="Data Enthusiast"/>
+  <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="Sandhya's GitHub views"/>
+  <img src="https://img.shields.io/badge/Data%20Lover-💻-purple?style=flat-square" alt="Data Lover Badge"/>
+</p>
+
+---
+
+<!-- Optional animated GitHub stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandhya-1401&theme=dark&hide_border=true" alt="GitHub Streak"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-1401&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 
