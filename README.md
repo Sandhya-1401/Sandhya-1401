@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Sandhya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello, I'm Sandhya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 <!-- Centered 2-column layout -->
@@ -10,7 +10,7 @@
 <td width="60%" align="center" valign="top">
   <h3>🎓 Final-year B.Tech Student | Aspiring Data Analyst with a Passion for Insights & Impact </h3>
   <p> Passionate about transforming raw data into actionable insights.</p>
-  <p>🚀 Exploring: Business Intelligence | ETL & EDA | QA Testing | Real-world Dashboards</p>
+  <p>🚀 Exploring :- Business Intelligence | ETL & EDA | QA Testing | Real-world Dashboards</p>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" width="150" height="25"/>
   <br>
