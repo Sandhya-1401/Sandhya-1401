@@ -27,11 +27,13 @@
 
 ### 🚀 About Me
 
-- 🎓 Final-year B.Tech student with a focus on **Data Analytics**
-- 🛠 Skilled in: `Python`, `SQL`, `Power BI`, `Excel`, `Jira`, `Postman`
-- 📊 Love making dashboards & digging deep into raw data
-- 🌱 Always learning — currently exploring **QA Testing**, **EDA**, and **Real-World Projects**
-- ✨ Believer in: *Learn | Evolve | Lead*
+- 🧠 I see data not just as numbers, but as stories waiting to be told.  
+- 💼 Currently working on internship-based projects that mimic real-world business challenges — from dashboards to QA testing pipelines.  
+- 🌱 Always exploring — whether it’s turning Excel into a data engine, or blending SQL + Python to uncover hidden insights.  
+- 💡 Love bringing structure to chaos — especially when dealing with unclean or unstructured data.  
+- 💬 Ask me about **Making Data Meaningful** — dashboards, storytelling, and finding the “why” behind the “what”.   
+- 🔗 Actively seeking opportunities to **collaborate on real-world data projects and contribute meaningfully while exploring job opportunities**
+- ⚡ Fun fact:My creativity flows from pencils to pixels — from drawing notebooks to Power BI 😄
 
 ---
 <div align="center">
