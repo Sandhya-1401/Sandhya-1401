@@ -8,9 +8,9 @@
   <tr>
     <!-- Left Side (Enhanced & Center Aligned Content) -->
 <td width="60%" align="center" valign="top">
-  <h3>🎓 Final-year B.Tech Student | 📊 Aspiring Data Analyst with a Passion for Insights & Impact </h3>
-  <p>❤️ Passionate about transforming raw data into actionable insights.</p>
-  <p>🚀 Exploring: Business Intelligence | EDA | QA Testing | Real-world Dashboards</p>
+  <h3>🎓 Final-year B.Tech Student | Aspiring Data Analyst with a Passion for Insights & Impact </h3>
+  <p> Passionate about transforming raw data into actionable insights.</p>
+  <p>🚀 Exploring: Business Intelligence | ETL & EDA | QA Testing | Real-world Dashboards</p>
   <br>
   <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" width="150" height="25"/>
   <br>
@@ -32,10 +32,12 @@
 - 🌱 Always exploring — whether it’s turning Excel into a data engine, or blending SQL + Python to uncover hidden insights.  
 - 💡 Love bringing structure to chaos — especially when dealing with unclean or unstructured data.  
 - 💬 Ask me about **Making Data Meaningful** — dashboards, storytelling, and finding the “why” behind the “what”.   
+- ⚡ Fun fact — My creativity flows from pencils to pixels — from drawing notebooks to Power BI 😄
+  
 - 🔗 Actively seeking opportunities to **collaborate on real-world projects and contribute meaningfully while exploring job opportunities**
-- ⚡ Fun fact:My creativity flows from pencils to pixels — from drawing notebooks to Power BI 😄
 
 ---
+
 <div align="center">
 
 ### 🔧 Tools & Technologies
