@@ -25,22 +25,21 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 About Me:
 
 - 🧠 I see data not just as numbers, but as stories waiting to be told.  
 - 💼 Currently working on internship-based projects that mimic real-world business challenges — from dashboards to QA testing pipelines.  
-- 🌱 Always exploring — whether it’s turning Excel into a data engine, or blending SQL + Python to uncover hidden insights.  
-- 💡 Love bringing structure to chaos — especially when dealing with unclean or unstructured data.  
+- 🌱 Always Exploring — whether it’s turning Excel into a data engine, or blending SQL + Python to uncover hidden insights.    
 - 💬 Ask me about **Making Data Meaningful** — dashboards, storytelling, and finding the “why” behind the “what”.   
-- ⚡ Fun fact — My creativity flows from pencils to pixels — from drawing notebooks to Power BI 😄
+- ⚡ Fun Fact — My creativity flows from pencils to pixels — from drawing notebooks to Power BI 😄
   
-- 🔗 Actively seeking opportunities to **collaborate on real-world projects and contribute meaningfully while exploring job opportunities**
+- 🔗 Actively Seeking Opportunities to **collaborate on real-world projects and contribute meaningfully while exploring job opportunities**
 
 ---
 
-<div align="center">
+### 🔧 Tools & Technologies:
 
-### 🔧 Tools & Technologies
+<div align="center">
 
 <table>
   <thead>
@@ -141,7 +140,7 @@
 ---
 
 
-### 📬 Connect with Me
+### 📬 Connect with Me:
 
 <p align="center">
   <a href="mailto:ranasandhya093@gmail.com" target="_blank">
@@ -163,8 +162,7 @@
 
 ---
 
-<!-- 📈 GitHub Statistics Section -->
-### 📊 GitHub Insights & Activity</h3>
+### 📊 GitHub Insights & Activity:
 
 <!-- Stats & Languages -->
 <div align="center">
@@ -189,9 +187,4 @@
   />
 </div>
 
-
 --- 
-
-### ✨ Quote I Live By
-
-> “Transform raw data into impact — one insight at a time.”
