@@ -65,9 +65,9 @@
     <tr>
       <td><strong>Data Visualization</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
         <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -103,9 +103,9 @@
     <tr>
       <td><strong>IDEs & Dev Tools</strong></td>
       <td>
+        <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black"/>
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
         <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black"/>
       </td>
     </tr>
     <tr>
@@ -118,8 +118,8 @@
     <tr>
       <td><strong>Design & Prototyping</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
         <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -167,6 +167,28 @@
 </p>
 
 ---
+
+<!-- 📈 GitHub Statistics Section -->
+<h3 align="center">📊 GitHub Insights & Activity</h3>
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sandhya-1401&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="180" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-1401&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sandhya-1401&theme=radical&hide_border=true&background=000000" height="180" />
+</p>
+
+<p align="center">
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhya-1401&theme=radical&hide_border=true&area=true" />
+</p>
+
 
 
 ### ✨ Quote I Live By
