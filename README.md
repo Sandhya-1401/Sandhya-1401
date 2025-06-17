@@ -169,27 +169,33 @@
 ---
 
 <!-- 📈 GitHub Statistics Section -->
-<h3 align="center">📊 GitHub Insights & Activity</h3>
+### 📊 GitHub Insights & Activity</h3>
 
-<p align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandhya-1401&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" height="180" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-1401&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" />
-</p>
+<!-- Stats & Languages -->
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Sandhya-1401&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
+    height="180" 
+    style="border:1px solid #e1e4e8; border-radius:8px; margin:10px;" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-1401&layout=compact&theme=radical&langs_count=6" 
+    height="180" 
+    style="border:1px solid #e1e4e8; border-radius:8px; margin:10px;" 
+  />
+</div>
 
-<p align="center">
-  <!-- GitHub Streak Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sandhya-1401&theme=radical&hide_border=true&background=000000" height="180" />
-</p>
+<!-- Streak -->
+<div align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Sandhya-1401&theme=radical" 
+    height="180" 
+    style="border:1px solid #e1e4e8; border-radius:8px; margin:10px;" 
+  />
+</div>
 
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhya-1401&theme=radical&hide_border=true&area=true" />
-</p>
 
-
+--- 
 
 ### ✨ Quote I Live By
 
