@@ -10,10 +10,9 @@
       <td width="60%" align="center" valign="top">
         <h3>🎓 Final-year B.Tech Student | 📊 Aspiring Data Analyst</h3>
         <p>❤️ Passionate about transforming raw data into actionable insights.</p>
-        <p>📍 Based in India | 🧠 Curious Learner | 💬 Always open to collaboration</p>
         <p>🚀 Exploring: Business Intelligence | EDA | QA Testing | Real-world Dashboards</p>
         <br>
-        <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" width="180" height="30"/>>
+        <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" width="180" height="30"/>
         <br><br>
 <!--         <p><strong>💡 Motto:</strong> <em>"Turning passion into profession, one dataset at a time."</em></p> -->
       </td>
