@@ -6,13 +6,20 @@
 <div align="center">
 <table>
   <tr>
-    <!-- Left Side (Center Aligned Content) -->
-    <td width="60%" align="center" valign="top">
-      <h3>🎓 Final-year B.Tech Student | 📊 Aspiring Data Analyst</h3>
-      <p>❤️ Passionate about turning data into decisions</p>
-      <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
-      <img src="https://img.shields.io/badge/Data%20Lover-💻-purple?style=flat-square" alt="Data Lover Badge"/>
-    </td>
+    <!-- Left Side (Enhanced & Center Aligned Content) -->
+<td width="60%" align="center" valign="top">
+  <h3>🎓 Final-year B.Tech Student | 📊 Aspiring Data Analyst</h3>
+  <p>❤️ Passionate about transforming raw data into actionable insights.</p>
+  <p>📍 Based in India | 🧠 Curious Learner | 💬 Always open to collaboration</p>
+  <p>🚀 Exploring: Business Intelligence | EDA | QA Testing | Real-world Dashboards</p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Data%20Lover-💻-purple?style=flat-square" alt="Data Lover Badge"/>
+  <img src="https://img.shields.io/badge/Learner-📘-blue?style=flat-square" alt="Learner Badge"/>
+  <br><br>
+  <p><strong>💡 Motto:</strong> <em>"Turning passion into profession, one dataset at a time."</em></p>
+</td>
+
     <!-- Right Side (GIF) -->
     <td width="50%" align="center" valign="top">
       <img src="https://github.com/Sandhya-1401/Sandhya-1401/blob/main/Data%20analysis.gif?raw=true" width="280" alt="Animated girl coding GIF"/>
@@ -42,14 +49,14 @@
   <a href="https://linkedin.com/in/rana-sandhya" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/ranasandhya2510" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <a href="https://github.com/Sandhya-1401" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://instagram.com/san_rana.1729" target="_blank">
+   <a href="https://instagram.com/san_rana.1729" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/Sandhya-1401" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://twitter.com/ranasandhya2510" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
