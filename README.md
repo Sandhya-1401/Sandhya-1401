@@ -36,12 +36,23 @@
 ### 📬 Connect with Me
 
 <p align="center"> 
-  <a href="mailto:ranasandhya093@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
-  <a href="https://linkedin.com/in/rana-sandhya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://twitter.com/ranasandhya2510"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a> 
-  <a href="https://instagram.com/san_rana.1729"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a> 
-  <a href="https://github.com/Sandhya-1401"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a> 
+  <a href="mailto:ranasandhya093@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a> 
+  <a href="https://linkedin.com/in/rana-sandhya">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://twitter.com/ranasandhya2510">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white" />
+  </a> 
+  <a href="https://instagram.com/san_rana.1729">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
+  </a> 
+  <a href="https://github.com/Sandhya-1401">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white" />
+  </a> 
 </p>
+
 
 ---
 
