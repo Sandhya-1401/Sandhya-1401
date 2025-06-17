@@ -32,7 +32,7 @@
 - 🌱 Always exploring — whether it’s turning Excel into a data engine, or blending SQL + Python to uncover hidden insights.  
 - 💡 Love bringing structure to chaos — especially when dealing with unclean or unstructured data.  
 - 💬 Ask me about **Making Data Meaningful** — dashboards, storytelling, and finding the “why” behind the “what”.   
-- 🔗 Actively seeking opportunities to **collaborate on real-world data projects and contribute meaningfully while exploring job opportunities**
+- 🔗 Actively seeking opportunities to **collaborate on real-world projects and contribute meaningfully while exploring job opportunities**
 - ⚡ Fun fact:My creativity flows from pencils to pixels — from drawing notebooks to Power BI 😄
 
 ---
