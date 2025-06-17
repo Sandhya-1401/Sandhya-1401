@@ -7,18 +7,17 @@
 <table>
   <tr>
     <!-- Left Side (Enhanced & Center Aligned Content) -->
-      <td width="60%" align="center" valign="top">
-        <h3>🎓 Final-year B.Tech Student | 📊 Aspiring Data Analyst</h3>
-        <p>❤️ Passionate about transforming raw data into actionable insights.</p>
-        <p>🚀 Exploring: Business Intelligence | EDA | QA Testing | Real-world Dashboards</p>
-        <br>
-        <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" width="180" height="30"/>
-        <br><br>
-<!--         <p><strong>💡 Motto:</strong> <em>"Turning passion into profession, one dataset at a time."</em></p> -->
-      </td>
+<td width="60%" align="center" valign="top">
+  <h3>🎓 Final-year B.Tech Student | 📊 Aspiring Data Analyst with a Passion for Insights & Impact </h3>
+  <p>❤️ Passionate about transforming raw data into actionable insights.</p>
+  <p>🚀 Exploring: Business Intelligence | EDA | QA Testing | Real-world Dashboards</p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" width="150" height="30"/>
+  <br>
+</td>
     <!-- Right Side (GIF) -->
     <td width="50%" align="center" valign="top">
-      <img src="https://github.com/Sandhya-1401/Sandhya-1401/blob/main/Data%20analysis.gif?raw=true" width="280" alt="Animated girl coding GIF"/>
+      <img src="https://github.com/Sandhya-1401/Sandhya-1401/blob/main/Data%20analysis.gif?raw=true" width="280" alt="Animated girl coding GIF" width="150" height="130"/>
     </td>
   </tr>
 </table>
