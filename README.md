@@ -17,7 +17,7 @@
 </td>
     <!-- Right Side (GIF) -->
     <td width="50%" align="center" valign="top">
-      <img src="https://github.com/Sandhya-1401/Sandhya-1401/blob/main/Data%20analysi.gif?raw=true" width="280" alt="Animated girl coding GIF" width="200" height="245"/>
+      <img src="https://github.com/Sandhya-1401/Sandhya-1401/blob/main/Data%20analysis.gif?raw=true" width="280" alt="Animated girl coding GIF" width="230" height="245"/>
     </td>
   </tr>
 </table>
