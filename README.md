@@ -12,12 +12,12 @@
   <p>❤️ Passionate about transforming raw data into actionable insights.</p>
   <p>🚀 Exploring: Business Intelligence | EDA | QA Testing | Real-world Dashboards</p>
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" width="150" height="30"/>
+  <img src="https://komarev.com/ghpvc/?username=Sandhya-1401&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" width="150" height="25"/>
   <br>
 </td>
     <!-- Right Side (GIF) -->
     <td width="50%" align="center" valign="top">
-      <img src="https://github.com/Sandhya-1401/Sandhya-1401/blob/main/Data%20analysis.gif?raw=true" width="280" alt="Animated girl coding GIF" width="190" height="250"/>
+      <img src="https://github.com/Sandhya-1401/Sandhya-1401/blob/main/Data%20analysis.gif?raw=true" width="280" alt="Animated girl coding GIF" width="200" height="245"/>
     </td>
   </tr>
 </table>
