@@ -187,8 +187,7 @@
   />
 </div>
 
-
-<img src="https://streak-stats.demolab.com?user=Sandhya-1401&theme=radical" />
+https://streak-stats.demolab.com/?user=Sandhya-1401&theme=radical
 
 
 --- 
