@@ -181,10 +181,11 @@
 <!-- Streak -->
 <div align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Sandhya-1401&theme=radical" 
+    src="https://streak-stats.demolab.com?user=Sandhya-1401&theme=radical" 
     height="180" 
     style="border:1px solid #e1e4e8; border-radius:8px; margin:10px;" 
   />
 </div>
+
 
 --- 
