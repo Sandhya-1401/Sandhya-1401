@@ -187,7 +187,7 @@
   />
 </div>
 
-https://streak-stats.demolab.com/?user=Sandhya-1401&theme=radical
+**Streak Link:** [Click to open directly](https://streak-stats.demolab.com/?user=Sandhya-1401&theme=radical)
 
 
 --- 
