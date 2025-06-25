@@ -169,7 +169,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Sandhya-1401&show_icons=true&theme=radical&count_private=true&include_all_commits=true" 
     height="180" 
-    style="border:1px solid #e1e4e8; border-radius:8px; margin:10px;" 
+    style="border:1px solid #e1e4e8; border-radius:9px; margin:10px;" 
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-1401&layout=compact&theme=radical&langs_count=6" 
@@ -189,5 +189,3 @@
 
 **Streak Link:** [Click to open directly](https://streak-stats.demolab.com/?user=Sandhya-1401&theme=radical)
 
-
---- 
